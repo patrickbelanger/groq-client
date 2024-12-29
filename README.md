@@ -4,7 +4,7 @@ Introducing a Java client for [Groq®](https://groq.com/). While official client
 this library extends the power of Groq to the JVM ecosystem, offering a seamless option for Java developers and other 
 JVM-based languages.
 
-📢 Notice: Groq® is a trademark of Groq, Inc. Groq CLI and the Groq Client are not affiliated with Groq, Inc. These tools 
+📢 Notice: Groq® is a trademark of Groq, Inc. Groq CLI and the Groq Client are not affiliated with Groq, Inc. These library and client 
 are provided as interfaces to communicate with the Groq API. For more information, refer to Groq's [Trademark Policy](https://groq.com/trademark-policy/).
 
 # Requirement
