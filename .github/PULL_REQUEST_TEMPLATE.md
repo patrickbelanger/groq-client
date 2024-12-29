@@ -1,8 +1,10 @@
 # Description
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+<!-- Provide a clear and concise description of the changes made in this pull request. -->
 
-Fixes # (issue)
+### Additional Notes
+
+<!-- Optional: Add any additional context, screenshots, or notes about your changes here. -->
 
 ## Type of change
 
@@ -15,9 +17,9 @@ Please delete options that are not relevant.
 
 # Checklist:
 
-- [ ] Code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests
-- [ ] it tests pass locally with my changes
+- [ ] My changes are in line with the project's contribution guidelines.
+- [ ] I have added tests that prove my fix is effective or my feature works.
+- [ ] I have run the tests locally, and all tests pass.
+- [ ] I have updated documentation as needed.
+
+Once this PR is approved, **please use the Squash & Merge option** to ensure a clean commit history.
