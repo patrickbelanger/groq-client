@@ -6,7 +6,7 @@
   <artifactId>groq-client</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
-  <name>groc-client</name>
+  <name>groq-client</name>
   <packaging>jar</packaging>
 
   <url>https://github.com/patrickbelanger/groq-client</url>
@@ -52,6 +52,14 @@
       <version>${spring.boot.version}</version>
     </dependency>
   </dependencies>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/patrickbelanger/groq-client</url>
+    </repository>
+  </distributionManagement>
 
   <build>
     <pluginManagement>
